@@ -1,6 +1,7 @@
 # 100 Syntax Python Paling Dasar dan Sederhana
 
-Panduan kilat ini berisi 100 pola syntax Python paling dasar yang sangat cocok untuk pemula.
+catatan 100 huruf sakral piton, siapa tau lupa, suki dilarang join
+umapyoi,,
 
 ## I. Output dan Komentar
 1. Mencetak teks ke layar:
